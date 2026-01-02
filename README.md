@@ -1,1 +1,1 @@
-# Zod Learn for Type Safety Begineer to Mastery
+# Zod Learn for Type Safety Begineer to Mastery Step
