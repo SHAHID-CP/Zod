@@ -1,1 +1,1 @@
-# Zod Learn for Type
+# Zod Learn for Type Safety
