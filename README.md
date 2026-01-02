@@ -1,1 +1,1 @@
-# Zod Learn for Type Safety
+# Zod Learn for Type Safety Begineer
